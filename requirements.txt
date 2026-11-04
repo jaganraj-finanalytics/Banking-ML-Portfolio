@@ -1,0 +1,2 @@
+pandas numpy matplotlib seaborn scikit-learn xgboost imbalanced-learn
+duckdb jupyter
